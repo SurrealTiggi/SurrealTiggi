@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Tiago Baptista 👋
 
-<!--
-**SurrealTiggi/SurrealTiggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps/Site Reliability Engineer by trade, and have been working in the space professionally since ~2008. I've worked on a variety of things over the years, but not everything is visible here 🤨.
+Feel free to reach out for a chat!
 
-Here are some ideas to get you started:
+### 💬 Connect
+- [Twitter](https://twitter.com/SurrealTiggi)
+- [LinkedIn](https://www.linkedin.com/in/SurrealTiggi)
+- [Email](mailto:hey@tiggi.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### λ Working On
+- `tiggi.dev` - Personal portfolio/blog site. Building with [Hugo](https://gohugo.io/) and [TailwindCSS](https://www.tailwindcss.com/)
+
+---
+
+### ⚡Fun facts
+- Born in Portugal, currently based in Cork, Ireland, but lived in South Africa prior
+- My [dotfiles](https://github.com/SurrealTiggi/dotfiles)
+
+---
+
+<img align="left" alt="Tiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=surrealtiggi&show_icons=true&hide_border=true" />
+
+<sub></sub>
